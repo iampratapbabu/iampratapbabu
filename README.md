@@ -4,7 +4,7 @@
 - I’m currently learning Java and Web services
 
 <img src="https://github-readme-stats.vercel.app/api?username=iampratapbabu&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iampratapbabu&layout="compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iampratapbabu/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampratapbabu"/>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
