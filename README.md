@@ -8,7 +8,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampratapbabu"/>
 
 <code><img width="10%" src="
-https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg""></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="10%" src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svgg"></code>
 <code><img width="10%" src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg"></code>
