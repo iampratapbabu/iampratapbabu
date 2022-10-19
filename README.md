@@ -7,6 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iampratapbabu"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampratapbabu"/>
 
+##Technology
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="10%" src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg"></code>
