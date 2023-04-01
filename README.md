@@ -1,7 +1,7 @@
 ### Hello Developers
 
-- I’m currently working on Angularjs and Ionic
-- I’m currently learning Java and Web services
+- I’m currently working on Angular, React and Nodejs
+- I’m currently learning Java and Web services with flutter and dart
 
 <img src="https://github-readme-stats.vercel.app/api?username=iampratapbabu&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iampratapbabu"/>
