@@ -1,10 +1,8 @@
 ### Hello Developers
 
 - I’m currently working on Angular, React and Nodejs
-- I’m currently learning Java and Web services with flutter and dart
+- I’m currently learning Java Web services , flutter and dart
 
-<img src="https://github-readme-stats.vercel.app/api?username=iampratapbabu&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iampratapbabu"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampratapbabu"/>
 
 ### Technology
