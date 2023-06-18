@@ -11,8 +11,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon21.svg"></code>
 
 
 <code><img width="10%" src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg"></code>
