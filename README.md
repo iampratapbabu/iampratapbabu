@@ -1,7 +1,8 @@
-### Hello Developers
+### Hello
 
-- I’m currently working on Angular, React and Nodejs
-- I’m currently learning Java Web services
+I am Tej Pratap .
+I'm a fullstack engineer with expertise in building and maintaining complete web applications, from frontend interfaces to backend systems. 
+I thrive in both client-side and server-side development, ensuring seamless integration and performance.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampratapbabu"/>
 
