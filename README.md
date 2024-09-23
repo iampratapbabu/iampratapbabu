@@ -1,7 +1,7 @@
 ### Hello
 
 ### I am Tej Pratap .
-### I'm a fullstack engineer with expertise in building and maintaining complete web applications, from frontend interfaces to backend systems. 
+### I'm a Fullstack Engineer with Expertise In Building and Maintaining complete web applications, From frontend interfaces to backend systems. 
 ### I thrive in both client-side and server-side development, ensuring seamless integration and performance.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iampratapbabu"/>
